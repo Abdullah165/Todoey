@@ -1,16 +1,7 @@
-# asd
+# todoey
 
-A new Flutter project.
+![Screenshot_1591869663](https://user-images.githubusercontent.com/63372032/84372866-144d8180-abdc-11ea-9d50-ff4a41d9dc19.png)
 
-## Getting Started
+![Screenshot_1591869715](https://user-images.githubusercontent.com/63372032/84372922-26c7bb00-abdc-11ea-9c50-d9f3c8e0c8e1.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1591869724](https://user-images.githubusercontent.com/63372032/84372964-33e4aa00-abdc-11ea-90f9-7c72ffbfd818.png)
